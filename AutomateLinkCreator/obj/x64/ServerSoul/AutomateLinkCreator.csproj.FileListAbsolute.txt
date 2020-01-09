@@ -1,0 +1,4 @@
+C:\Users\Soporte\source\repos\AutomateLinkCreator\AutomateLinkCreator\bin\x64\ServerSoul\AutomateLinkCreator.exe.config
+C:\Users\Soporte\source\repos\AutomateLinkCreator\AutomateLinkCreator\bin\x64\ServerSoul\AutomateLinkCreator.exe
+C:\Users\Soporte\source\repos\AutomateLinkCreator\AutomateLinkCreator\obj\x64\ServerSoul\AutomateLinkCreator.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\AutomateLinkCreator\AutomateLinkCreator\obj\x64\ServerSoul\AutomateLinkCreator.exe

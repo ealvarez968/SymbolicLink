@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateLinkCreator", "AutomateLinkCreator\AutomateLinkCreator.csproj", "{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		ServerSoul|Any CPU = ServerSoul|Any CPU
+		ServerSoul|x64 = ServerSoul|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Debug|x64.ActiveCfg = Debug|x64
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Debug|x64.Build.0 = Debug|x64
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Release|x64.ActiveCfg = Release|x64
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.Release|x64.Build.0 = Release|x64
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.ServerSoul|Any CPU.ActiveCfg = ServerSoul|Any CPU
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.ServerSoul|Any CPU.Build.0 = ServerSoul|Any CPU
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.ServerSoul|x64.ActiveCfg = ServerSoul|x64
+		{F18BAD57-FA82-4E73-950A-8E5FA1DAD758}.ServerSoul|x64.Build.0 = ServerSoul|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C26148F-C5F3-4860-AE85-BE35F7C70877}
+	EndGlobalSection
+EndGlobal
